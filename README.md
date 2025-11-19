@@ -1,65 +1,103 @@
+<p align="center"><img src="banner.png" width="100%"></p>
 🗑️ Smart Dustbin System with Voice-Based Integration
 by ACJ COMPANY
 
 The Smart Dustbin System is an intelligent IoT-based solution designed for schools and colleges to promote cleanliness, automation, and environmental awareness.
-Our system uses voice guidance, automatic sorting, overflow alerts, and real-time data tracking to ensure correct waste disposal and maintain hygienic surroundings.
+It uses voice guidance, automatic sorting, overflow alerts, and real-time tracking to ensure proper waste disposal and maintain hygienic surroundings.
 
-This repository contains the official UI/UX design, product concept, and documentation for the Smart Dustbin System.
+This repository contains the official UI/UX design, concept, and documentation for the Smart Dustbin System.
 
 🎨 Figma Design (UI/UX Prototype)
 
-Explore the complete website and dashboard design:
+Explore the complete design here:
 🔗 https://flint-cloth-11663354.figma.site
 
-The Figma project includes:
+This Figma project includes:
 
-Landing page
+Landing Page
 
-Key features section
+Key Features Section
 
-Smart admin dashboard
+Smart Admin Dashboard
 
-Student & staff portal
+Student Portal
 
-ACJ Team company portal
+Staff Portal
 
-Feedback & contact page
+ACJ Company Portal
 
-ACJ Company logo
+Feedback & Contact Page
 
-Fully responsive eco-tech design
+ACJ Company Branding & Logo
 
 🌟 Key Features
 🔊 Voice Guidance
 
-Real-time audio instructions for proper waste segregation.
+Provides clear voice instructions to guide students in proper waste segregation.
 
 ♻️ Automatic Sorting
 
-Sensor-based logic that detects waste type and opens the correct bin.
+Sensors identify the waste type and open the correct bin.
 
 🚨 Overflow Alerts
 
-Instant notifications when the bin is full.
+Sends instant notifications when the bin is full.
 
-📊 Data Tracking
+📊 Real-Time Data Tracking
 
-Smart dashboard for tracking waste patterns and segregation accuracy.
+Dashboard helps schools monitor segregation efficiency and waste patterns.
 
-🧼 Touchless Hygiene
+🧼 Touchless Operation
 
-Automatic lid operation using IR/ultrasonic sensors.
+IR/Ultrasonic sensors allow hygienic, non-contact lid opening.
 
-🧠 Purpose & Vision
+🧠 Why Schools Need This System
 
-This solution is designed mainly for schools, helping students learn correct waste disposal habits while ensuring a clean and smart campus environment. Our goal is to combine technology + hygiene + awareness to build sustainable behaviour in institutions.
+Improves hygiene and campus cleanliness
 
-🛠️ Future Implementation Stack
+Reduces cleaning staff workload
+
+Teaches students correct waste habits
+
+Supports smart, sustainable school environments
+
+🏛️ Portals Included in the System
+🟩 Student Portal
+
+Learn segregation
+
+View tutorials
+
+Use voice demo
+
+Check bin location map
+
+🟦 Staff Portal
+
+Receive full-bin alerts
+
+View cleaning schedules
+
+Manage dustbin issues
+
+Track sensor errors
+
+🟧 ACJ Company Portal
+
+Manage schools
+
+Assign technicians
+
+Handle support tickets
+
+View system analytics
+
+🛠️ Planned Tech Stack (Future Implementation)
 
 Frontend: HTML, CSS, JavaScript / React
-Backend: Node.js / Python Flask
-IoT Hardware: Arduino/ESP32, IR Sensor, Ultrasonic Sensor, Servo, Voice Module
+Backend: Node.js or Python Flask
 Database: Firebase / MongoDB
+IoT Hardware: Arduino/ESP32, IR Sensor, Ultrasonic Sensor, Servo, Voice Module
 Design Tools: Figma, Canva
 
 👥 Team – ACJ COMPANY
@@ -69,13 +107,14 @@ Chris Joyson J.V	Tech Lead / IoT Developer
 Jeswen J	Hardware & Prototype Engineer
 📞 Contact
 
-Phone: +91 XXXXXXXXXX
-Email: smartdustbinproject@gmail.com
+📧 smartdustbinproject@gmail.com
 
-For feedback and suggestions, please raise an Issue or Pull Request in this repository.
+📱 +91 XXXXXXXXXX
+
+For feedback or suggestions, open an Issue or Pull Request.
 
 🧠 Project Motto
 Smart segregation dustbin = hygiene + automation + awareness.
 📄 License
 
-This project is available under the Creative Commons Zero v1.0 (CC0 1.0) license.
+This project is licensed under Creative Commons Zero v1.0 Universal (CC0 1.0).
